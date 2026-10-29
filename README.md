@@ -31,7 +31,6 @@ I enjoy finding the meaning in an idea, building a clear structure around it, an
 ### `WEB DEVELOPMENT`
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-111318?style=for-the-badge&logo=typescript&logoColor=FF294A)
-![React](https://img.shields.io/badge/React-111318?style=for-the-badge&logo=react&logoColor=FF294A)
 ![Vite](https://img.shields.io/badge/Vite-111318?style=for-the-badge&logo=vite&logoColor=FF294A)
 ![HTML5](https://img.shields.io/badge/HTML5-111318?style=for-the-badge&logo=html5&logoColor=FF294A)
 ![CSS3](https://img.shields.io/badge/CSS3-111318?style=for-the-badge&logo=css3&logoColor=FF294A)
