@@ -53,13 +53,6 @@ A project focused on analyzing signals and supporting decisions in fraud-related
 - **Stack:** Python · CatBoost · NetworkX · FastAPI · PostgreSQL
 - **Repository:** [AntiFraude](https://github.com/Shshdevs/AntiFraude)
 
-## `// CURRENT INTERESTS`
-
-- Web application security
-- Network fundamentals and Linux
-- Secure-by-design frontend and backend development
-- Machine learning applications and data-driven systems
-
 ## `// CONNECT`
 
 Want to discuss development, security, or interesting projects? Find me on GitHub.
